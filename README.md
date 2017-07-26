@@ -1,4 +1,4 @@
-# Injection RASP (Runtime Application Self Protection) Security into Tornado Demo Vuln App
+# Injecting RASP (Runtime Application Self Protection) Security into Tornado Demo Vuln App
 Tornado Demo Vulnerable Application to test SQL injection vulnerability and patch it using RASP (Runtime Application Self-Protection)
 ''' Support on Python 2 && python 3 
 
