@@ -34,6 +34,9 @@ Tornado Demo Vulnerable Application to test SQL injection vulnerability and patc
 ## Demo Video
   
    [![Alt text](https://img.youtube.com/vi/5yKH3nFZ9lY/0.jpg)](https://www.youtube.com/watch?v=5yKH3nFZ9lY)
+   
+## :octocat:Credits:
+* FOS Team : [Fools of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
 
 ## Support !
  Email address: umarfarookmech712@gmail.com | foolsofsecur1ty@gmail.com for more details. <br>
