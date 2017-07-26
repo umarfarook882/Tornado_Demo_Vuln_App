@@ -1,4 +1,4 @@
-# Tornado Demo Vuln App
+# Injection RASP (Runtime Application Self Protection) Security into Tornado Demo Vuln App
 Tornado Demo Vulnerable Application to test SQL injection vulnerability and patch it using RASP (Runtime Application Self-Protection)
 ''' Support on Python 2 && python 3 
 
@@ -34,8 +34,8 @@ Tornado Demo Vulnerable Application to test SQL injection vulnerability and patc
 ## Demo Video
   
    [![Alt text](https://img.youtube.com/vi/5yKH3nFZ9lY/0.jpg)](https://www.youtube.com/watch?v=5yKH3nFZ9lY)
-   
-## :octocat:Credits:
+
+## Credits:
 * FOS Team : [Fools of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
 
 ## Support !
@@ -44,9 +44,9 @@ Tornado Demo Vulnerable Application to test SQL injection vulnerability and patc
  Blog: [FOS](https://fosecurity.blogspot.com) 
 
 ## Useful links:
- 1. [Ajin Abraham](http://ajinabraham.com/)
- 2. [Kali](https://www.kali.org/)
- 3. [Debuggex](https://www.debuggex.com/)
- 4. [Vulnerable Tornado App](https://github.com/ajinabraham/Vulnerable_Tornado_App)
- 6. [Sqreen](https://blog.sqreen.io/)
+1. [Ajin Abraham](http://ajinabraham.com/)
+2. [Kali](https://www.kali.org/)
+3. [Debuggex](https://www.debuggex.com/)
+4. [Vulnerable Tornado App](https://github.com/ajinabraham/Vulnerable_Tornado_App)
+6. [Sqreen](https://blog.sqreen.io/)
 
