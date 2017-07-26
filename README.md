@@ -18,7 +18,7 @@ Tornado Demo Vulnerable Application to test SQL injection vulnerability and patc
     Token = ['KEYWORD', 'WHITESPACE', 'OPERATOR', 'WHITESPACE', 'KEYWORD', 'WHITESPACE', 'STRING', 'WHITESPACE',
     'KEYWORD', 'WHITESPACE', 'STRING', 'OPERATOR', 'NUMBER']
     
-    4.Run RASP in Learning mode to make it understand what is Correct user input that need for application to work.
+    4.Run RASP in Learning mode to make it understand what is the Correct user input structure that need for application to work.
     
     5.RASP will automatically insert the rules into separate database i.e rules.db while in Learning mode
     
@@ -41,7 +41,7 @@ Tornado Demo Vulnerable Application to test SQL injection vulnerability and patc
  Blog: [FOS](https://fosecurity.blogspot.com) 
 
 ## Useful links:
- 1. [Ajina Abraham](http://ajinabraham.com/)
+ 1. [Ajin Abraham](http://ajinabraham.com/)
  2. [Kali](https://www.kali.org/)
  3. [Debuggex](https://www.debuggex.com/)
  4. [Vulnerable Tornado App](https://github.com/ajinabraham/Vulnerable_Tornado_App)
