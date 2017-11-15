@@ -31,7 +31,7 @@ RASP:  Support Python 3.x only
     
     7.So now, we have have the rules ready to block SQL injection attack :)
     
-    8.Check the below video to see how it works.. :)
+    8.Check the below video to see how it works... :)
     
 ## Demo Video
   
